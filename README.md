@@ -7,7 +7,7 @@ Sixth Form Student 📚
 An A-level student studying Computing: Application Development.
 
 * 🌍  I'm based in England
-* 🧠  I'm currently learning To program in C#
+* 🧠  I'm currently learning to program in C#
 * 💬  Ask me about GCSE in Computer Science
 
 <a href="https://www.github.com/fdent21" target="_blank" rel="noreferrer"><img
