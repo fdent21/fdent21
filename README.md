@@ -8,7 +8,7 @@ An A-level student studying Computing: Application Development.
 
 * 🌍  I'm based in England
 * 🧠  I'm currently learning to program in C#
-* 💬  Ask me about GCSE in Computer Science
+* 💬  GCSE in Computer Science
 
 <a href="https://www.github.com/fdent21" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/fdent21?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
